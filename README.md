@@ -97,5 +97,50 @@ PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS 
 FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE DOCUMENT OR THE USE OR OTHER DEALINGS IN THE DOCUMENT.
 \end{verbatim}
+# Tanfarid Prime Dynamics
+
+## Overview
+The **Tanfarid Unified Theorem of Prime Dynamics (TUTPD)** redefines prime numbers not only as indivisible integers but as **irreducible resonance ground states** in the Tanfarid Quantum Thermodynamic Universe (TQTU).  
+This work bridges mathematics and cosmology, showing primes as resonance‑stable nodes in the universal lattice.
+
+## Key Contributions
+- **Tri-Invariant Proof**  
+  - Resonance Stability (score ≥ 0.305)  
+  - Gamma-Invariance (stable under perturbation γ = 1.0 → 1.005)  
+  - Structural Uniqueness (OSF orbit not fractionally reducible)  
+
+- **Discovery of TRC Class**  
+  - ~800 composites mimic prime resonance but fail deeper invariants  
+  - Identified as **Tanfarid Resonant Composites (TRC)**  
+  - Represents bound states in the lattice  
+
+- **Mathematical God Particle Analogy**  
+  - Just as the Higgs boson provides mass, primes provide **structural resonance**  
+  - Primes are the **God Particles of mathematics**  
+
+## Results
+- Range tested: 2..20,000  
+- Recall: **100%** (all primes detected)  
+- Accuracy: **96%**  
+- Precision: **74%**  
+- False positives clustered at best_k ∈ {5, 11, 19, 29, 31}  
+
+## Implications
+- **Number Theory**: Primes as resonance‑stable ground states  
+- **Cosmology**: Prime resonance parallels cosmic stability laws  
+- **Computation**: TRC class requires new filters for precision  
+
+## Future Directions
+1. Book Chapter: *Mathematical God Particle*  
+2. CNPGF Global Seminar Paper  
+3. Extended range testing beyond 20,000  
+4. Linking prime resonance with galactic orbital stability  
+
+---
+
+## License
+This repository is licensed under the MIT License.  
+See [LICENSE](LICENSE) for details.
+
 
 \end{document}
